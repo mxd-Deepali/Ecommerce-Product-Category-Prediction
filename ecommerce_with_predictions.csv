@@ -1,0 +1,501 @@
+Product Title,Category,TitleLength,CategoryEncoded,Predicted_Category,Prediction_Confidence,Review_Flag
+Best Smartphone for Electronics,Electronics,4,3,Electronics,0.8067620541378476,False
+Affordable Charger for Electronics,Electronics,4,3,Electronics,0.7580690342647562,False
+New Headphones for Electronics,Electronics,4,3,Electronics,0.7565091213421655,False
+Best Laptop for Electronics,Electronics,4,3,Electronics,0.8082516001937348,False
+Premium Power Bank for Electronics,Electronics,5,3,Electronics,0.8221329736750256,False
+Best Smartphone for Electronics,Electronics,4,3,Electronics,0.8067620541378476,False
+Best Charger for Electronics,Electronics,4,3,Electronics,0.7957265854611083,False
+New Smartphone for Electronics,Electronics,4,3,Electronics,0.7942088387602454,False
+Premium Charger for Electronics,Electronics,4,3,Electronics,0.7882377558817023,False
+Premium Power Bank for Electronics,Electronics,5,3,Electronics,0.8221329736750256,False
+New Smartwatch for Electronics,Electronics,4,3,Electronics,0.7972462441722946,False
+Premium Tablet for Electronics,Electronics,4,3,Electronics,0.8305440453121907,False
+Best Headphones for Electronics,Electronics,4,3,Electronics,0.7702403758851045,False
+Top Camera for Electronics,Electronics,4,3,Electronics,0.7936055169275558,False
+Affordable Headphones for Electronics,Electronics,4,3,Electronics,0.7303645520546098,False
+New Camera for Electronics,Electronics,4,3,Electronics,0.7560764364257075,False
+Best Laptop for Electronics,Electronics,4,3,Electronics,0.8082516001937348,False
+Top Laptop for Electronics,Electronics,4,3,Electronics,0.8352674356047847,False
+Affordable Camera for Electronics,Electronics,4,3,Electronics,0.7297694980360219,False
+Premium Tablet for Electronics,Electronics,4,3,Electronics,0.8305440453121907,False
+Best Smartwatch for Electronics,Electronics,4,3,Electronics,0.8095316140317161,False
+Premium Laptop for Electronics,Electronics,4,3,Electronics,0.8011715547235106,False
+Top Laptop for Electronics,Electronics,4,3,Electronics,0.8352674356047847,False
+Premium Tablet for Electronics,Electronics,4,3,Electronics,0.8305440453121907,False
+Premium Camera for Electronics,Electronics,4,3,Electronics,0.7614357759696424,False
+Premium Charger for Electronics,Electronics,4,3,Electronics,0.7882377558817023,False
+Best Smartphone for Electronics,Electronics,4,3,Electronics,0.8067620541378476,False
+New Tablet for Electronics,Electronics,4,3,Electronics,0.8232314834991317,False
+Best Charger for Electronics,Electronics,4,3,Electronics,0.7957265854611083,False
+Best Power Bank for Electronics,Electronics,5,3,Electronics,0.8279879965474243,False
+Affordable Smartwatch for Electronics,Electronics,4,3,Electronics,0.7729375210148393,False
+Affordable Headphones for Electronics,Electronics,4,3,Electronics,0.7303645520546098,False
+Affordable Camera for Electronics,Electronics,4,3,Electronics,0.7297694980360219,False
+New Tablet for Electronics,Electronics,4,3,Electronics,0.8232314834991317,False
+Best Headphones for Electronics,Electronics,4,3,Electronics,0.7702403758851045,False
+Premium Charger for Electronics,Electronics,4,3,Electronics,0.7882377558817023,False
+New Smartwatch for Electronics,Electronics,4,3,Electronics,0.7972462441722946,False
+Top Tablet for Electronics,Electronics,4,3,Electronics,0.8661195179800164,False
+Premium Charger for Electronics,Electronics,4,3,Electronics,0.7882377558817023,False
+Affordable Smartphone for Electronics,Electronics,4,3,Electronics,0.7696675892012605,False
+New Smartphone for Electronics,Electronics,4,3,Electronics,0.7942088387602454,False
+Affordable Power Bank for Electronics,Electronics,5,3,Electronics,0.7999950564750986,False
+Affordable Laptop for Electronics,Electronics,4,3,Electronics,0.7714162792106782,False
+New Camera for Electronics,Electronics,4,3,Electronics,0.7560764364257075,False
+New Smartwatch for Electronics,Electronics,4,3,Electronics,0.7972462441722946,False
+Top Smartwatch for Electronics,Electronics,4,3,Electronics,0.83654849721574,False
+New Tablet for Electronics,Electronics,4,3,Electronics,0.8232314834991317,False
+New Charger for Electronics,Electronics,4,3,Electronics,0.7829515571943553,False
+Premium Tablet for Electronics,Electronics,4,3,Electronics,0.8305440453121907,False
+Premium Power Bank for Electronics,Electronics,5,3,Electronics,0.8221329736750256,False
+Premium Power Bank for Electronics,Electronics,5,3,Electronics,0.8221329736750256,False
+Affordable Charger for Electronics,Electronics,4,3,Electronics,0.7580690342647562,False
+New Smartwatch for Electronics,Electronics,4,3,Electronics,0.7972462441722946,False
+Best Smartphone for Electronics,Electronics,4,3,Electronics,0.8067620541378476,False
+Best Headphones for Electronics,Electronics,4,3,Electronics,0.7702403758851045,False
+New Power Bank for Electronics,Electronics,5,3,Electronics,0.818371719419886,False
+Premium Laptop for Electronics,Electronics,4,3,Electronics,0.8011715547235106,False
+Top Power Bank for Electronics,Electronics,5,3,Electronics,0.8430155753030211,False
+Premium Smartwatch for Electronics,Electronics,4,3,Electronics,0.8025048813270573,False
+Premium Tablet for Electronics,Electronics,4,3,Electronics,0.8305440453121907,False
+Premium Smartphone for Electronics,Electronics,4,3,Electronics,0.7995764785130152,False
+Best Tablet for Electronics,Electronics,4,3,Electronics,0.8336131321746145,False
+Affordable Laptop for Electronics,Electronics,4,3,Electronics,0.7714162792106782,False
+Affordable Power Bank for Electronics,Electronics,5,3,Electronics,0.7999950564750986,False
+New Smartwatch for Electronics,Electronics,4,3,Electronics,0.7972462441722946,False
+Best Tablet for Electronics,Electronics,4,3,Electronics,0.8336131321746145,False
+Premium Headphones for Electronics,Electronics,4,3,Electronics,0.7618815129911,False
+Premium Laptop for Electronics,Electronics,4,3,Electronics,0.8011715547235106,False
+Affordable Charger for Electronics,Electronics,4,3,Electronics,0.7580690342647562,False
+New Camera for Electronics,Electronics,4,3,Electronics,0.7560764364257075,False
+New T-shirt for Clothing,Clothing,4,2,Clothing,0.8333068803534426,False
+Premium Kurti for Clothing,Clothing,4,2,Clothing,0.7199157703362171,False
+Top T-shirt for Clothing,Clothing,4,2,Clothing,0.8810245361533514,False
+Best Kurti for Clothing,Clothing,4,2,Clothing,0.7431833610415461,False
+Affordable Dress for Clothing,Clothing,4,2,Clothing,0.8251686486705492,False
+Best Dress for Clothing,Clothing,4,2,Clothing,0.8607888273522688,False
+Premium Jeans for Clothing,Clothing,4,2,Clothing,0.8090121845401443,False
+Best Blazer for Clothing,Clothing,4,2,Clothing,0.8400039129669236,False
+Best Jacket for Clothing,Clothing,4,2,Clothing,0.700080152693078,False
+New Blazer for Clothing,Clothing,4,2,Clothing,0.820881666773102,False
+Premium Jacket for Clothing,Clothing,4,2,Clothing,0.6749253619933044,False
+Affordable Shorts for Clothing,Clothing,4,2,Clothing,0.7907194083993475,False
+New Dress for Clothing,Clothing,4,2,Clothing,0.8430606031004219,False
+Affordable Shorts for Clothing,Clothing,4,2,Clothing,0.7907194083993475,False
+Affordable Blazer for Clothing,Clothing,4,2,Clothing,0.801916540483045,False
+Premium Blazer for Clothing,Clothing,4,2,Clothing,0.822759745975847,False
+Best Dress for Clothing,Clothing,4,2,Clothing,0.8607888273522688,False
+New Jeans for Clothing,Clothing,4,2,Clothing,0.8072014583494382,False
+Affordable T-shirt for Clothing,Clothing,4,2,Clothing,0.8148201165822272,False
+Premium Dress for Clothing,Clothing,4,2,Clothing,0.8451224578047042,False
+Premium Dress for Clothing,Clothing,4,2,Clothing,0.8451224578047042,False
+Best Jeans for Clothing,Clothing,4,2,Clothing,0.827225458205479,False
+Best Dress for Clothing,Clothing,4,2,Clothing,0.8607888273522688,False
+Best T-shirt for Clothing,Clothing,4,2,Clothing,0.8517813168216328,False
+Affordable Jeans for Clothing,Clothing,4,2,Clothing,0.7874589432226665,False
+Premium Dress for Clothing,Clothing,4,2,Clothing,0.8451224578047042,False
+Affordable Blazer for Clothing,Clothing,4,2,Clothing,0.801916540483045,False
+New Jacket for Clothing,Clothing,4,2,Clothing,0.6741324623777548,False
+Premium Blazer for Clothing,Clothing,4,2,Clothing,0.822759745975847,False
+New Blazer for Clothing,Clothing,4,2,Clothing,0.820881666773102,False
+Top Dress for Clothing,Clothing,4,2,Clothing,0.8902203660107169,False
+Best Jeans for Clothing,Clothing,4,2,Clothing,0.827225458205479,False
+Top Kurti for Clothing,Clothing,4,2,Clothing,0.7638475774060183,False
+Top Shorts for Clothing,Clothing,4,2,Clothing,0.8571451243765587,False
+Top T-shirt for Clothing,Clothing,4,2,Clothing,0.8810245361533514,False
+Best T-shirt for Clothing,Clothing,4,2,Clothing,0.8517813168216328,False
+Top Kurti for Clothing,Clothing,4,2,Clothing,0.7638475774060183,False
+Best Dress for Clothing,Clothing,4,2,Clothing,0.8607888273522688,False
+New Dress for Clothing,Clothing,4,2,Clothing,0.8430606031004219,False
+Premium Blazer for Clothing,Clothing,4,2,Clothing,0.822759745975847,False
+New Shorts for Clothing,Clothing,4,2,Clothing,0.8101934024089124,False
+New Saree for Clothing,Clothing,4,2,Clothing,0.6127408549320241,False
+Top Dress for Clothing,Clothing,4,2,Clothing,0.8902203660107169,False
+Best Blazer for Clothing,Clothing,4,2,Clothing,0.8400039129669236,False
+Premium Jeans for Clothing,Clothing,4,2,Clothing,0.8090121845401443,False
+Best T-shirt for Clothing,Clothing,4,2,Clothing,0.8517813168216328,False
+Best Dress for Clothing,Clothing,4,2,Clothing,0.8607888273522688,False
+New Shorts for Clothing,Clothing,4,2,Clothing,0.8101934024089124,False
+Top Blazer for Clothing,Clothing,4,2,Clothing,0.8679543871551594,False
+New Shorts for Clothing,Clothing,4,2,Clothing,0.8101934024089124,False
+Best Jacket for Clothing,Clothing,4,2,Clothing,0.700080152693078,False
+Top T-shirt for Clothing,Clothing,4,2,Clothing,0.8810245361533514,False
+Top Saree for Clothing,Clothing,4,2,Clothing,0.6501892324226599,False
+Top Saree for Clothing,Clothing,4,2,Clothing,0.6501892324226599,False
+Top Blazer for Clothing,Clothing,4,2,Clothing,0.8679543871551594,False
+New Dress for Clothing,Clothing,4,2,Clothing,0.8430606031004219,False
+Affordable Dress for Clothing,Clothing,4,2,Clothing,0.8251686486705492,False
+Best T-shirt for Clothing,Clothing,4,2,Clothing,0.8517813168216328,False
+Affordable T-shirt for Clothing,Clothing,4,2,Clothing,0.8148201165822272,False
+Best Blazer for Clothing,Clothing,4,2,Clothing,0.8400039129669236,False
+Premium Jacket for Clothing,Clothing,4,2,Clothing,0.6749253619933044,False
+Best Jeans for Clothing,Clothing,4,2,Clothing,0.827225458205479,False
+New Jeans for Clothing,Clothing,4,2,Clothing,0.8072014583494382,False
+Premium Jeans for Clothing,Clothing,4,2,Clothing,0.8090121845401443,False
+New Shorts for Clothing,Clothing,4,2,Clothing,0.8101934024089124,False
+Best Dress for Clothing,Clothing,4,2,Clothing,0.8607888273522688,False
+Premium T-shirt for Clothing,Clothing,4,2,Clothing,0.8353253787136752,False
+Premium Jeans for Clothing,Clothing,4,2,Clothing,0.8090121845401443,False
+Top Kurti for Clothing,Clothing,4,2,Clothing,0.7638475774060183,False
+Affordable Dress for Clothing,Clothing,4,2,Clothing,0.8251686486705492,False
+Affordable Cushion for Home,Home,4,4,Home,0.7832232452277246,False
+Affordable Table for Home,Home,4,4,Home,0.8370275002555609,False
+New Lamp for Home,Home,4,4,Home,0.8362503553553446,False
+Top Chair for Home,Home,4,4,Home,0.8433733327789319,False
+Best Cookware for Home,Home,4,4,Home,0.815490611008887,False
+Top Curtains for Home,Home,4,4,Home,0.8111002396953911,False
+Best Cushion for Home,Home,4,4,Home,0.7525139848607987,False
+Premium Lamp for Home,Home,4,4,Home,0.8087725397262318,False
+New Chair for Home,Home,4,4,Home,0.8105147366523214,False
+Best Cushion for Home,Home,4,4,Home,0.7525139848607987,False
+Affordable Lamp for Home,Home,4,4,Home,0.8582875202568795,False
+New Mattress for Home,Home,4,4,Home,0.6888553116157753,False
+Premium Lamp for Home,Home,4,4,Home,0.8087725397262318,False
+Premium Cookware for Home,Home,4,4,Home,0.7884581914536355,False
+Premium Lamp for Home,Home,4,4,Home,0.8087725397262318,False
+Best Bedding for Home,Home,4,4,Home,0.7860865940727008,False
+Affordable Curtains for Home,Home,4,4,Home,0.8065895615740752,False
+Best Bedding for Home,Home,4,4,Home,0.7860865940727008,False
+Affordable Lamp for Home,Home,4,4,Home,0.8582875202568795,False
+Premium Cushion for Home,Home,4,4,Home,0.7207601285539385,False
+Affordable Cushion for Home,Home,4,4,Home,0.7832232452277246,False
+Affordable Mattress for Home,Home,4,4,Home,0.7197901078218306,False
+Affordable Cookware for Home,Home,4,4,Home,0.8418199637020897,False
+Best Table for Home,Home,4,4,Home,0.8105108361028399,False
+Affordable Cookware for Home,Home,4,4,Home,0.8418199637020897,False
+Best Chair for Home,Home,4,4,Home,0.8079551923611998,False
+New Lamp for Home,Home,4,4,Home,0.8362503553553446,False
+New Mattress for Home,Home,4,4,Home,0.6888553116157753,False
+Premium Table for Home,Home,4,4,Home,0.7832353720219349,False
+Premium Cookware for Home,Home,4,4,Home,0.7884581914536355,False
+Best Curtains for Home,Home,4,4,Home,0.777603637170218,False
+New Cookware for Home,Home,4,4,Home,0.8180216714561885,False
+Affordable Bedding for Home,Home,4,4,Home,0.8139371365380915,False
+Top Bedding for Home,Home,4,4,Home,0.8218967922681991,False
+Best Lamp for Home,Home,4,4,Home,0.8338482036230233,False
+Affordable Cookware for Home,Home,4,4,Home,0.8418199637020897,False
+Affordable Cushion for Home,Home,4,4,Home,0.7832232452277246,False
+New Curtains for Home,Home,4,4,Home,0.7802564948639009,False
+Affordable Table for Home,Home,4,4,Home,0.8370275002555609,False
+Premium Bedding for Home,Home,4,4,Home,0.7560868342765061,False
+New Bedding for Home,Home,4,4,Home,0.7895904827205601,False
+New Table for Home,Home,4,4,Home,0.8130357488119452,False
+Best Bedding for Home,Home,4,4,Home,0.7860865940727008,False
+Affordable Table for Home,Home,4,4,Home,0.8370275002555609,False
+New Lamp for Home,Home,4,4,Home,0.8362503553553446,False
+New Curtains for Home,Home,4,4,Home,0.7802564948639009,False
+Top Cookware for Home,Home,4,4,Home,0.8517606348265695,False
+Top Cushion for Home,Home,4,4,Home,0.7844848260283129,False
+New Mattress for Home,Home,4,4,Home,0.6888553116157753,False
+Affordable Lamp for Home,Home,4,4,Home,0.8582875202568795,False
+New Cushion for Home,Home,4,4,Home,0.7552021861532074,False
+Best Cushion for Home,Home,4,4,Home,0.7525139848607987,False
+Top Chair for Home,Home,4,4,Home,0.8433733327789319,False
+Affordable Curtains for Home,Home,4,4,Home,0.8065895615740752,False
+Affordable Chair for Home,Home,4,4,Home,0.834755282515923,False
+Premium Table for Home,Home,4,4,Home,0.7832353720219349,False
+Premium Chair for Home,Home,4,4,Home,0.7803891971980221,False
+Best Curtains for Home,Home,4,4,Home,0.777603637170218,False
+Affordable Bedding for Home,Home,4,4,Home,0.8139371365380915,False
+Premium Lamp for Home,Home,4,4,Home,0.8087725397262318,False
+Best Curtains for Home,Home,4,4,Home,0.777603637170218,False
+Premium Table for Home,Home,4,4,Home,0.7832353720219349,False
+Affordable Chair for Home,Home,4,4,Home,0.834755282515923,False
+Top Curtains for Home,Home,4,4,Home,0.8111002396953911,False
+Top Cushion for Home,Home,4,4,Home,0.7844848260283129,False
+Affordable Cookware for Home,Home,4,4,Home,0.8418199637020897,False
+Top Cookware for Home,Home,4,4,Home,0.8517606348265695,False
+Premium Cushion for Home,Home,4,4,Home,0.7207601285539385,False
+Affordable Table for Home,Home,4,4,Home,0.8370275002555609,False
+Best Chair for Home,Home,4,4,Home,0.8079551923611998,False
+Premium Eyeliner for Beauty,Beauty,4,0,Beauty,0.8010627952438981,False
+Best Compact for Beauty,Beauty,4,0,Beauty,0.7656823953992911,False
+Premium Compact for Beauty,Beauty,4,0,Beauty,0.8088596753512366,False
+Top Eyeliner for Beauty,Beauty,4,0,Beauty,0.8459578424084926,False
+Top Compact for Beauty,Beauty,4,0,Beauty,0.8535660179657876,False
+Premium Face Wash for Beauty,Beauty,5,0,Beauty,0.7464835472937692,False
+New Shampoo for Beauty,Beauty,4,0,Beauty,0.8059938203237476,False
+Top Face Wash for Beauty,Beauty,5,0,Beauty,0.7749239961384418,False
+Premium Compact for Beauty,Beauty,4,0,Beauty,0.8088596753512366,False
+Top Lipstick for Beauty,Beauty,4,0,Beauty,0.8882022306675936,False
+Affordable Compact for Beauty,Beauty,4,0,Beauty,0.7869945186124689,False
+New Shampoo for Beauty,Beauty,4,0,Beauty,0.8059938203237476,False
+Premium Eyeliner for Beauty,Beauty,4,0,Beauty,0.8010627952438981,False
+Top Conditioner for Beauty,Beauty,4,0,Beauty,0.8665645220661417,False
+Top Perfume for Beauty,Beauty,4,0,Beauty,0.8564566998586153,False
+Premium Conditioner for Beauty,Beauty,4,0,Beauty,0.82219285788306,False
+New Moisturizer for Beauty,Beauty,4,0,Beauty,0.7017059174327658,False
+Affordable Eyeliner for Beauty,Beauty,4,0,Beauty,0.77202339608943,False
+Best Perfume for Beauty,Beauty,4,0,Beauty,0.7694547846224966,False
+Affordable Perfume for Beauty,Beauty,4,0,Beauty,0.7904930136304706,False
+New Face Wash for Beauty,Beauty,5,0,Beauty,0.7578874212420109,False
+Best Lipstick for Beauty,Beauty,4,0,Beauty,0.8098155364406779,False
+New Conditioner for Beauty,Beauty,4,0,Beauty,0.8324456390406136,False
+Premium Moisturizer for Beauty,Beauty,4,0,Beauty,0.6867201780037143,False
+Top Shampoo for Beauty,Beauty,4,0,Beauty,0.8391933202275831,False
+Premium Perfume for Beauty,Beauty,4,0,Beauty,0.8121311987032956,False
+Top Conditioner for Beauty,Beauty,4,0,Beauty,0.8665645220661417,False
+Top Perfume for Beauty,Beauty,4,0,Beauty,0.8564566998586153,False
+New Lipstick for Beauty,Beauty,4,0,Beauty,0.8560609174218169,False
+Best Shampoo for Beauty,Beauty,4,0,Beauty,0.7501305324227729,False
+New Face Wash for Beauty,Beauty,5,0,Beauty,0.7578874212420109,False
+Premium Conditioner for Beauty,Beauty,4,0,Beauty,0.82219285788306,False
+Best Perfume for Beauty,Beauty,4,0,Beauty,0.7694547846224966,False
+Best Conditioner for Beauty,Beauty,4,0,Beauty,0.7803335910948807,False
+New Conditioner for Beauty,Beauty,4,0,Beauty,0.8324456390406136,False
+Premium Eyeliner for Beauty,Beauty,4,0,Beauty,0.8010627952438981,False
+Top Shampoo for Beauty,Beauty,4,0,Beauty,0.8391933202275831,False
+Premium Conditioner for Beauty,Beauty,4,0,Beauty,0.82219285788306,False
+New Conditioner for Beauty,Beauty,4,0,Beauty,0.8324456390406136,False
+Top Compact for Beauty,Beauty,4,0,Beauty,0.8535660179657876,False
+New Compact for Beauty,Beauty,4,0,Beauty,0.8197684980575858,False
+Premium Conditioner for Beauty,Beauty,4,0,Beauty,0.82219285788306,False
+New Compact for Beauty,Beauty,4,0,Beauty,0.8197684980575858,False
+Top Moisturizer for Beauty,Beauty,4,0,Beauty,0.727571785680216,False
+Affordable Perfume for Beauty,Beauty,4,0,Beauty,0.7904930136304706,False
+Affordable Eyeliner for Beauty,Beauty,4,0,Beauty,0.77202339608943,False
+Affordable Moisturizer for Beauty,Beauty,4,0,Beauty,0.662173333590648,False
+New Face Wash for Beauty,Beauty,5,0,Beauty,0.7578874212420109,False
+New Shampoo for Beauty,Beauty,4,0,Beauty,0.8059938203237476,False
+New Perfume for Beauty,Beauty,4,0,Beauty,0.8228670342707267,False
+Best Shampoo for Beauty,Beauty,4,0,Beauty,0.7501305324227729,False
+Top Eyeliner for Beauty,Beauty,4,0,Beauty,0.8459578424084926,False
+Premium Conditioner for Beauty,Beauty,4,0,Beauty,0.82219285788306,False
+Top Lipstick for Beauty,Beauty,4,0,Beauty,0.8882022306675936,False
+New Shampoo for Beauty,Beauty,4,0,Beauty,0.8059938203237476,False
+Top Lipstick for Beauty,Beauty,4,0,Beauty,0.8882022306675936,False
+Premium Shampoo for Beauty,Beauty,4,0,Beauty,0.7945184457364962,False
+Top Lipstick for Beauty,Beauty,4,0,Beauty,0.8882022306675936,False
+Affordable Compact for Beauty,Beauty,4,0,Beauty,0.7869945186124689,False
+Top Shampoo for Beauty,Beauty,4,0,Beauty,0.8391933202275831,False
+Premium Perfume for Beauty,Beauty,4,0,Beauty,0.8121311987032956,False
+Top Perfume for Beauty,Beauty,4,0,Beauty,0.8564566998586153,False
+Affordable Shampoo for Beauty,Beauty,4,0,Beauty,0.7719937235517325,False
+Top Lipstick for Beauty,Beauty,4,0,Beauty,0.8882022306675936,False
+Top Eyeliner for Beauty,Beauty,4,0,Beauty,0.8459578424084926,False
+Top Face Wash for Beauty,Beauty,5,0,Beauty,0.7749239961384418,False
+Top Face Wash for Beauty,Beauty,5,0,Beauty,0.7749239961384418,False
+Premium Lipstick for Beauty,Beauty,4,0,Beauty,0.8476846404086588,False
+Top Lipstick for Beauty,Beauty,4,0,Beauty,0.8882022306675936,False
+Best Shampoo for Beauty,Beauty,4,0,Beauty,0.7501305324227729,False
+New Workbook for Books,Books,4,1,Books,0.7483705998432507,False
+New Novel for Books,Books,4,1,Books,0.8161409352503156,False
+Affordable Guide for Books,Books,4,1,Books,0.7930137925441302,False
+Affordable Magazine for Books,Books,4,1,Books,0.83706585297983,False
+Top Dictionary for Books,Books,4,1,Books,0.8665423080808853,False
+Affordable Guide for Books,Books,4,1,Books,0.7930137925441302,False
+Affordable Guide for Books,Books,4,1,Books,0.7930137925441302,False
+Affordable Textbook for Books,Books,4,1,Books,0.7718663433508102,False
+Top Novel for Books,Books,4,1,Books,0.8757090232867096,False
+Premium Novel for Books,Books,4,1,Books,0.8337815770357403,False
+Affordable Magazine for Books,Books,4,1,Books,0.83706585297983,False
+Best Novel for Books,Books,4,1,Books,0.8225791576587355,False
+Best Magazine for Books,Books,4,1,Books,0.8224204969930068,False
+New Novel for Books,Books,4,1,Books,0.8161409352503156,False
+Premium Comics for Books,Books,4,1,Books,0.7877448266253405,False
+New Comics for Books,Books,4,1,Books,0.7682570860559865,False
+Top Textbook for Books,Books,4,1,Books,0.8086739620875345,False
+Premium Magazine for Books,Books,4,1,Books,0.8335788197943375,False
+Top Biography for Books,Books,4,1,Books,0.8761744177260256,False
+Affordable Comics for Books,Books,4,1,Books,0.7924132181453581,False
+Premium Textbook for Books,Books,4,1,Books,0.7667114660259323,False
+New Biography for Books,Books,4,1,Books,0.8167238072825832,False
+Best Novel for Books,Books,4,1,Books,0.8225791576587355,False
+Affordable Guide for Books,Books,4,1,Books,0.7930137925441302,False
+Top Magazine for Books,Books,4,1,Books,0.8755410105658041,False
+Best Magazine for Books,Books,4,1,Books,0.8224204969930068,False
+Best Biography for Books,Books,4,1,Books,0.8231707029346619,False
+Premium Textbook for Books,Books,4,1,Books,0.7667114660259323,False
+Premium Novel for Books,Books,4,1,Books,0.8337815770357403,False
+Affordable Guide for Books,Books,4,1,Books,0.7930137925441302,False
+Affordable Textbook for Books,Books,4,1,Books,0.7718663433508102,False
+Premium Dictionary for Books,Books,4,1,Books,0.8219183645930536,False
+Best Guide for Books,Books,4,1,Books,0.7762031494797041,False
+Top Textbook for Books,Books,4,1,Books,0.8086739620875345,False
+Top Dictionary for Books,Books,4,1,Books,0.8665423080808853,False
+Top Comics for Books,Books,4,1,Books,0.8301984484596938,False
+Top Comics for Books,Books,4,1,Books,0.8301984484596938,False
+Premium Biography for Books,Books,4,1,Books,0.8343173423963082,False
+Premium Workbook for Books,Books,4,1,Books,0.7683658043321758,False
+Top Guide for Books,Books,4,1,Books,0.8306685868475532,False
+Premium Biography for Books,Books,4,1,Books,0.8343173423963082,False
+Affordable Magazine for Books,Books,4,1,Books,0.83706585297983,False
+Best Biography for Books,Books,4,1,Books,0.8231707029346619,False
+Top Magazine for Books,Books,4,1,Books,0.8755410105658041,False
+Top Guide for Books,Books,4,1,Books,0.8306685868475532,False
+Affordable Novel for Books,Books,4,1,Books,0.8372018720862415,False
+Top Dictionary for Books,Books,4,1,Books,0.8665423080808853,False
+New Workbook for Books,Books,4,1,Books,0.7483705998432507,False
+New Dictionary for Books,Books,4,1,Books,0.8031068572166418,False
+Affordable Dictionary for Books,Books,4,1,Books,0.8259686759292343,False
+Affordable Biography for Books,Books,4,1,Books,0.8377418950123746,False
+Premium Novel for Books,Books,4,1,Books,0.8337815770357403,False
+Premium Magazine for Books,Books,4,1,Books,0.8335788197943375,False
+Best Magazine for Books,Books,4,1,Books,0.8224204969930068,False
+Top Workbook for Books,Books,4,1,Books,0.810238605788594,False
+Premium Magazine for Books,Books,4,1,Books,0.8335788197943375,False
+Top Workbook for Books,Books,4,1,Books,0.810238605788594,False
+Top Novel for Books,Books,4,1,Books,0.8757090232867096,False
+Best Biography for Books,Books,4,1,Books,0.8231707029346619,False
+New Guide for Books,Books,4,1,Books,0.76880704926612,False
+New Biography for Books,Books,4,1,Books,0.8167238072825832,False
+Premium Dictionary for Books,Books,4,1,Books,0.8219183645930536,False
+Top Dictionary for Books,Books,4,1,Books,0.8665423080808853,False
+Top Dictionary for Books,Books,4,1,Books,0.8665423080808853,False
+Affordable Workbook for Books,Books,4,1,Books,0.773520402518507,False
+Affordable Biography for Books,Books,4,1,Books,0.8377418950123746,False
+Affordable Magazine for Books,Books,4,1,Books,0.83706585297983,False
+Best Magazine for Books,Books,4,1,Books,0.8224204969930068,False
+Affordable Textbook for Books,Books,4,1,Books,0.7718663433508102,False
+Premium Comics for Books,Books,4,1,Books,0.7877448266253405,False
+New Cricket Bat for Sports,Sports,5,6,Sports,0.7640147583917836,False
+Top Dumbbell for Sports,Sports,4,6,Sports,0.8603038217610328,False
+Premium Dumbbell for Sports,Sports,4,6,Sports,0.8173625831676854,False
+Best Cricket Bat for Sports,Sports,5,6,Sports,0.7597066793393364,False
+Affordable Cricket Bat for Sports,Sports,5,6,Sports,0.7736100655600678,False
+Affordable Yoga Mat for Sports,Sports,5,6,Sports,0.656649323360907,False
+Affordable Football for Sports,Sports,4,6,Sports,0.7838716718520506,False
+Premium Yoga Mat for Sports,Sports,5,6,Sports,0.6549454081559241,False
+Affordable Football for Sports,Sports,4,6,Sports,0.7838716718520506,False
+Best Dumbbell for Sports,Sports,4,6,Sports,0.7990893104984306,False
+New Gloves for Sports,Sports,4,6,Sports,0.829949939424757,False
+Best Football for Sports,Sports,4,6,Sports,0.7674226782324955,False
+Premium Dumbbell for Sports,Sports,4,6,Sports,0.8173625831676854,False
+Top Gloves for Sports,Sports,4,6,Sports,0.8851488560476808,False
+Top Skipping Rope for Sports,Sports,5,6,Sports,0.7014809957251551,False
+New Football for Sports,Sports,4,6,Sports,0.7681509520159164,False
+Affordable Gloves for Sports,Sports,4,6,Sports,0.8393147421224775,False
+Best Tennis Racket for Sports,Sports,5,6,Sports,0.789268081744024,False
+Top Gloves for Sports,Sports,4,6,Sports,0.8851488560476808,False
+Best Football for Sports,Sports,4,6,Sports,0.7674226782324955,False
+New Yoga Mat for Sports,Sports,5,6,Sports,0.6459199270082953,False
+Premium Dumbbell for Sports,Sports,4,6,Sports,0.8173625831676854,False
+Best Cricket Bat for Sports,Sports,5,6,Sports,0.7597066793393364,False
+Best Shoes for Sports,Sports,4,6,Sports,0.7358739308479673,False
+Premium Cricket Bat for Sports,Sports,5,6,Sports,0.7744522911579743,False
+Premium Shoes for Sports,Sports,4,6,Sports,0.7556283608699689,False
+Top Gloves for Sports,Sports,4,6,Sports,0.8851488560476808,False
+Affordable Shoes for Sports,Sports,4,6,Sports,0.753719362664138,False
+Affordable Football for Sports,Sports,4,6,Sports,0.7838716718520506,False
+Premium Tennis Racket for Sports,Sports,5,6,Sports,0.8034842884675217,False
+New Cricket Bat for Sports,Sports,5,6,Sports,0.7640147583917836,False
+Affordable Tennis Racket for Sports,Sports,5,6,Sports,0.8023734655398034,False
+New Cricket Bat for Sports,Sports,5,6,Sports,0.7640147583917836,False
+New Tennis Racket for Sports,Sports,5,6,Sports,0.793401681840166,False
+New Football for Sports,Sports,4,6,Sports,0.7681509520159164,False
+Top Gloves for Sports,Sports,4,6,Sports,0.8851488560476808,False
+Premium Gloves for Sports,Sports,4,6,Sports,0.8422215261625228,False
+Affordable Football for Sports,Sports,4,6,Sports,0.7838716718520506,False
+New Dumbbell for Sports,Sports,4,6,Sports,0.8044129633762568,False
+Affordable Gloves for Sports,Sports,4,6,Sports,0.8393147421224775,False
+Best Cricket Bat for Sports,Sports,5,6,Sports,0.7597066793393364,False
+Affordable Cricket Bat for Sports,Sports,5,6,Sports,0.7736100655600678,False
+Top Tennis Racket for Sports,Sports,5,6,Sports,0.830833314589624,False
+Premium Cricket Bat for Sports,Sports,5,6,Sports,0.7744522911579743,False
+New Dumbbell for Sports,Sports,4,6,Sports,0.8044129633762568,False
+New Tennis Racket for Sports,Sports,5,6,Sports,0.793401681840166,False
+Best Yoga Mat for Sports,Sports,5,6,Sports,0.6391624677232072,False
+Affordable Dumbbell for Sports,Sports,4,6,Sports,0.8146254612080509,False
+Top Tennis Racket for Sports,Sports,5,6,Sports,0.830833314589624,False
+Top Dumbbell for Sports,Sports,4,6,Sports,0.8603038217610328,False
+Top Dumbbell for Sports,Sports,4,6,Sports,0.8603038217610328,False
+Premium Gloves for Sports,Sports,4,6,Sports,0.8422215261625228,False
+Top Tennis Racket for Sports,Sports,5,6,Sports,0.830833314589624,False
+Premium Football for Sports,Sports,4,6,Sports,0.7826169014538401,False
+Top Skipping Rope for Sports,Sports,5,6,Sports,0.7014809957251551,False
+Premium Dumbbell for Sports,Sports,4,6,Sports,0.8173625831676854,False
+Best Tennis Racket for Sports,Sports,5,6,Sports,0.789268081744024,False
+New Football for Sports,Sports,4,6,Sports,0.7681509520159164,False
+Affordable Football for Sports,Sports,4,6,Sports,0.7838716718520506,False
+New Gloves for Sports,Sports,4,6,Sports,0.829949939424757,False
+Premium Gloves for Sports,Sports,4,6,Sports,0.8422215261625228,False
+Affordable Yoga Mat for Sports,Sports,5,6,Sports,0.656649323360907,False
+Premium Shoes for Sports,Sports,4,6,Sports,0.7556283608699689,False
+Top Tennis Racket for Sports,Sports,5,6,Sports,0.830833314589624,False
+Top Skipping Rope for Sports,Sports,5,6,Sports,0.7014809957251551,False
+Top Skipping Rope for Sports,Sports,5,6,Sports,0.7014809957251551,False
+Affordable Tennis Racket for Sports,Sports,5,6,Sports,0.8023734655398034,False
+New Skipping Rope for Sports,Sports,5,6,Sports,0.6666951288288055,False
+Top Gloves for Sports,Sports,4,6,Sports,0.8851488560476808,False
+Affordable Shoes for Sports,Sports,4,6,Sports,0.753719362664138,False
+Premium Toys for Kids,Kids,4,5,Kids,0.7742872993830173,False
+Top Diapers for Kids,Kids,4,5,Kids,0.8091756371728311,False
+Affordable Story Book for Kids,Kids,5,5,Kids,0.8355736029267484,False
+Affordable Diapers for Kids,Kids,4,5,Kids,0.7484797589156412,False
+Top Toys for Kids,Kids,4,5,Kids,0.8075193893746864,False
+Premium Crayons for Kids,Kids,4,5,Kids,0.7978292976017979,False
+Top Toys for Kids,Kids,4,5,Kids,0.8075193893746864,False
+New Coloring Book for Kids,Kids,5,5,Kids,0.8153844718360429,False
+Premium Crayons for Kids,Kids,4,5,Kids,0.7978292976017979,False
+Top Toys for Kids,Kids,4,5,Kids,0.8075193893746864,False
+New Story Book for Kids,Kids,5,5,Kids,0.8324864282038295,False
+Premium Onesie for Kids,Kids,4,5,Kids,0.7921445141676385,False
+Affordable Crayons for Kids,Kids,4,5,Kids,0.7713977300351912,False
+Top Diapers for Kids,Kids,4,5,Kids,0.8091756371728311,False
+Best Baby Bottle for Kids,Kids,5,5,Kids,0.711891890261605,False
+New Story Book for Kids,Kids,5,5,Kids,0.8324864282038295,False
+Premium Toys for Kids,Kids,4,5,Kids,0.7742872993830173,False
+Premium Stroller for Kids,Kids,4,5,Kids,0.8101053543972596,False
+Best Baby Bottle for Kids,Kids,5,5,Kids,0.711891890261605,False
+Best Crayons for Kids,Kids,4,5,Kids,0.7862785657249357,False
+Best Onesie for Kids,Kids,4,5,Kids,0.780322559181015,False
+Top Story Book for Kids,Kids,5,5,Kids,0.8745279270425108,False
+Premium Story Book for Kids,Kids,5,5,Kids,0.8531527244163473,False
+Top Crayons for Kids,Kids,4,5,Kids,0.8316725943890817,False
+Top Baby Bottle for Kids,Kids,5,5,Kids,0.7378076495600658,False
+Top Onesie for Kids,Kids,4,5,Kids,0.8262366469195702,False
+Top Baby Bottle for Kids,Kids,5,5,Kids,0.7378076495600658,False
+Premium Onesie for Kids,Kids,4,5,Kids,0.7921445141676385,False
+Best Story Book for Kids,Kids,5,5,Kids,0.8454221465177371,False
+Top Coloring Book for Kids,Kids,5,5,Kids,0.8585018444374374,False
+Premium Story Book for Kids,Kids,5,5,Kids,0.8531527244163473,False
+Best Story Book for Kids,Kids,5,5,Kids,0.8454221465177371,False
+Affordable Crayons for Kids,Kids,4,5,Kids,0.7713977300351912,False
+New Crayons for Kids,Kids,4,5,Kids,0.7669480437353086,False
+Premium Crayons for Kids,Kids,4,5,Kids,0.7978292976017979,False
+Affordable Coloring Book for Kids,Kids,5,5,Kids,0.8187356314345481,False
+Premium Stroller for Kids,Kids,4,5,Kids,0.8101053543972596,False
+Top Coloring Book for Kids,Kids,5,5,Kids,0.8585018444374374,False
+New Baby Bottle for Kids,Kids,5,5,Kids,0.6943252281276611,False
+Premium Stroller for Kids,Kids,4,5,Kids,0.8101053543972596,False
+New Stroller for Kids,Kids,4,5,Kids,0.7798441581521507,False
+Best Coloring Book for Kids,Kids,5,5,Kids,0.8291488385782103,False
+Top Stroller for Kids,Kids,4,5,Kids,0.844604163083262,False
+Top Onesie for Kids,Kids,4,5,Kids,0.8262366469195702,False
+Top Toys for Kids,Kids,4,5,Kids,0.8075193893746864,False
+New Coloring Book for Kids,Kids,5,5,Kids,0.8153844718360429,False
+Best Crayons for Kids,Kids,4,5,Kids,0.7862785657249357,False
+Best Crayons for Kids,Kids,4,5,Kids,0.7862785657249357,False
+Best Onesie for Kids,Kids,4,5,Kids,0.780322559181015,False
+Top Onesie for Kids,Kids,4,5,Kids,0.8262366469195702,False
+Best Crayons for Kids,Kids,4,5,Kids,0.7862785657249357,False
+Affordable Coloring Book for Kids,Kids,5,5,Kids,0.8187356314345481,False
+Premium Stroller for Kids,Kids,4,5,Kids,0.8101053543972596,False
+Best Coloring Book for Kids,Kids,5,5,Kids,0.8291488385782103,False
+Premium Stroller for Kids,Kids,4,5,Kids,0.8101053543972596,False
+Affordable Crayons for Kids,Kids,4,5,Kids,0.7713977300351912,False
+Premium Toys for Kids,Kids,4,5,Kids,0.7742872993830173,False
+Premium Diapers for Kids,Kids,4,5,Kids,0.7759915702066633,False
+New Story Book for Kids,Kids,5,5,Kids,0.8324864282038295,False
+New Diapers for Kids,Kids,4,5,Kids,0.7437699098135058,False
+Top Diapers for Kids,Kids,4,5,Kids,0.8091756371728311,False
+Best Crayons for Kids,Kids,4,5,Kids,0.7862785657249357,False
+New Story Book for Kids,Kids,5,5,Kids,0.8324864282038295,False
+Best Toys for Kids,Kids,4,5,Kids,0.7622596633510847,False
+Affordable Toys for Kids,Kids,4,5,Kids,0.7466559683671319,False
+Affordable Coloring Book for Kids,Kids,5,5,Kids,0.8187356314345481,False
+Affordable Stroller for Kids,Kids,4,5,Kids,0.7840566628965631,False
+New Baby Bottle for Kids,Kids,5,5,Kids,0.6943252281276611,False
+Premium Stroller for Kids,Kids,4,5,Kids,0.8101053543972596,False
+Premium Onesie for Kids,Kids,4,5,Kids,0.7921445141676385,False
+New Dress for Electronics,Books,4,1,Electronics,0.607744794058538,False
+Top Workbook for Sports,Clothing,4,2,Sports,0.5856882902039738,True
+Top Dictionary for Clothing,Clothing,4,2,Clothing,0.7015719356541119,False
+Top Football for Home,Beauty,4,0,Home,0.5093390510310871,True
+Affordable Yoga Mat for Electronics,Kids,5,5,Electronics,0.3363357616526626,True
+Top Bedding for Sports,Books,4,1,Sports,0.5198190023421017,True
+New Tablet for Beauty,Home,4,4,Beauty,0.533877858887035,True
+Premium Cushion for Sports,Beauty,4,0,Sports,0.5592449979279029,True
+Affordable Eyeliner for Kids,Home,4,4,Kids,0.45681414155209277,True
+New Lipstick for Kids,Beauty,4,0,Kids,0.4431369376926427,True
